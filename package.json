@@ -28,7 +28,8 @@
       "url": "https://github.com/herrjemand/Base64URL-ArrayBuffer/blob/master/LICENSE-MIT"
     }
   ],
-  "main": "lib/base64url-arraybuffer",
+  "main": "lib/base64url-arraybuffer.mjs",
+  "module": "lib/base64url-arraybuffer.mjs",
   "engines": {
     "node": ">= 0.6.0"
   },
